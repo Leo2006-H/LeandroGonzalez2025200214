@@ -1,3 +1,2 @@
 Ir a Code en el repositorio de GitHub y copiar la URL, luego ir al lugar deseado para descargar la carpeta y en la ruta de acceso escribir cmd para que abra esa ruta en el cmd,
-
 por ultimo escribes "git clone" seguido por el https que copiaste de GitHub y ya debería añadir todo
